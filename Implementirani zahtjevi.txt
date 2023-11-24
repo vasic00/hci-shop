@@ -1,0 +1,11 @@
+Implementirani zahtjevi:
+
+1) Podrška za različite tipove korisničkih naloga - implementirana su dva različita tipa, administrator i radnik.
+Administrator upravlja radničkim nalozima i pregleda statistiku poslovanja. Radnik je zadužen za poslovnu logiku.
+2) Internacionalizacija - podržana su dva jezika na nivou formi, engleski i srpski.
+3) Korisničko uputstvo - rađeno u Word-u pa konvertovano u PDF.
+Tu je opisano kako se koristi aplikacija (oko 1700 riječi) zajedno sa screenshot-ovima.
+Screenshot-ovi se nalaze u folderu Screenshots.
+
+Jedna napomena:
+Svi podaci iz baze, uključujući strukturu baze (ddl) i testni podaci se nalaze u fajlu dbdata.
